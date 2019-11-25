@@ -1,6 +1,6 @@
 # RuCTFE code
 
-Written by violet @badk1ty and @q3w3e3 for team misec.
+Written by @badk1ty and @q3w3e3 for team misec.
 
 ## jsonparse
 ### setup
